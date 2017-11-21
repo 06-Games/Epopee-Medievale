@@ -1,3 +1,3 @@
-:arrow_up: Upload ici par dossier portant le nom du type de modele (Armes, Armures, Décorations, Nature, ...) :arrow_up:
+:arrow_up: Upload [ici](https://github.com/06-Games/Modelisation/upload/master) par dossier portant le nom du type de modele (Armes, Armures, Décorations, Nature, ...) :arrow_up:
 
 :scroll: [Pour ce qui reste à faire, c'est par ici](https://github.com/06-Games/Modelisation/projects/1) :scroll:
